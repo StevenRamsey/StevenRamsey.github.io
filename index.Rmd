@@ -3,8 +3,10 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/emily_2.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
-
 I am currently an Assitant Professor with the Department of Agricultural Economics and Agricultural Business at New Mexico State University. I am still new-ish to R, and this website is my latest attempt at expanding these skills.
 
 My full CV is available [here](files/CV.pdf).
+
+Here is a picture of my dog, Kota. She's super.
+
+<img src="images/kota.jpg" style="width:25%; border:10px solid; align="center">
