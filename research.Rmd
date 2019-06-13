@@ -1,7 +1,9 @@
 ---
 title: "Research"
-author: "Steve"
-date: "June 13, 2019"
 output: html_document
 ---
-* Ramsey, S.M., Bergtold, J.S., Canales, E., and J. Williams (2019) "Farmers yield risk perceptions of intensified working conservation practices on-farm in Kansas". *Journal of Agricultural and Resource Economics*, 44(2):380-403.
+My research is centered around the intersection of production agriculture and the natural environment. Some selected research items are presented below; for a more comprehensive listing see my full [CV](files/CV.pdf).
+* **Ramsey, S.M.**, Bergtold, J.S., Canales, E., and J. Williams (2019) "Farmers yield risk perceptions of intensified working conservation practices on-farm in Kansas". *Journal of Agricultural and Resource Economics*, 44(2):380-403.
+* Sanderson, M.R., Bergtold, J.S., Caldas, M.M., Heier Stamm, J., **Ramsey, S.M.**, and J. Aistrup. (2018) "Climate change beliefs in an agricultural context: What is the role of values held by farming and non-farming groups?" *Climatic Change*, no. 150(3):259—272.
+* Bergtold, J.S., **Ramsey, S.M.**, Maddy, L., and J. Williams. (2017) "A review of economic considerations for cover crops as a conservation practice." *Renewable Agriculture and Food Systems*:1—15.
+* Sanderson, M., Bergtold, J.S., Heier Stamm, J., Caldas, M., **and S.M. Ramsey**. (2017) “Bringing the social into social-hydrology: Application to conservation policy support in the Central Great Plains of Kansas, USA.” *Water Resources Research*, 53:6725—6743.
