@@ -1,0 +1,7 @@
+---
+title: "Research"
+author: "Steve"
+date: "June 13, 2019"
+output: html_document
+---
+* Ramsey, S.M., Bergtold, J.S., Canales, E., and J. Williams (2019) "Farmers yield risk perceptions of intensified working conservation practices on-farm in Kansas". *Journal of Agricultural and Resource Economics*, 44(2):380-403.
