@@ -1,0 +1,7 @@
+---
+title: "Contact Information"
+output: html_document
+---
+Email: [smramsey@nmsu.edu](mailto:smramsey@nmsu.edu)
+
+Phone: 575-646-5737
