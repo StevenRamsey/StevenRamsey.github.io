@@ -6,8 +6,11 @@ Below are some of the teaching-related activities I have been involved with thro
 
 ## New Mexico State University
 + AEEC 585: Production Economics. Masters course focused on firm-level economic theory and its applications. Semesters taught: S18.
++ AEEC 590: Research Methods - Econometrics Module. Five-week introduction to econometrics course for masters students. Semesters taught: F18, F19.
++ AG E 210: Survey of Food and Agricultural Issues. Semesters taugh: F19.
++ AG E 350: Spreadsheet Applications in Food and Agriculture. Advanced features and techniques for Microsoft Excel. Formerly AG E 450. Semesters taught: F19.
 + AG E 450: Spreadsheet Applications in Food and Agriculture. Advanced features and techniques for Microsoft Excel. Semesters taught: F17, S18, F18, S19.
-+ AEEC 590: Research Methods - Econometrics Module. Five-week introduction to econometrics course for masters students. Semesters taught: F18.
+
 
 ## Kansas State University
 + AGEC 115: Decision Tools for Agricultural Economics and Agribusiness. Use of Microsoft Excel to address quantitative problems related to agricultural economics and agribusiness. Semesters taught: F16, S17.
